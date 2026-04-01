@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+website:
+  title: "Kosugitti Labo"
+  site-url: "https://kosugitti.github.io/"
+  navbar:
+    left:
+      - href: index.qmd
+        text: ホーム
+      - href: works.qmd
+        text: 業績
+      - href: notes.qmd
+        text: ノート
+      - href: support.qmd
+        text: 正誤表
+      - href: yuep.qmd
+        text: YUEP
+      - text: 関連サイト
+        menu:
+          - text: 統計教材
+            href: "https://kosugitti.github.io/kosugi-stats/"
+          - text: 心理学統計実習
+            href: "https://kosugitti.github.io/PsyStatsPracticals/"
+          - text: 小杉ゼミ
+            href: "https://kosugitti.github.io/kosugi-labo/"
+          - text: ブログ
+            href: "https://kosugitti.net/"
+    right:
+      - icon: github
+        href: "https://github.com/kosugitti"
+  page-footer:
+    center: "© Koji Kosugi"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    lang: ja

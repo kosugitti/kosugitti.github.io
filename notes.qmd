@@ -1,0 +1,46 @@
+---
+title: "ノート"
+---
+
+## Rパッケージ
+
+- [exametrika](https://kosugitti.github.io/exametrika/) --- テストデータ分析パッケージ（CRAN公開）
+- [ggExametrika](https://kosugitti.github.io/ggExametrika/) --- exametrika可視化パッケージ（CRAN公開）
+
+## JASP関係
+
+- [JASPで統計を学ぼう！](https://jasp-user-jp.github.io/LSwithJASP/)
+
+## 授業テキスト
+
+詳しくは [心理統計教育教材](https://kosugitti.github.io/kosugi-stats/) を参照。
+
+- [心理学統計実習](https://kosugitti.github.io/PsyStatsPracticals/) --- Webテキスト
+
+## 研究ノート
+
+- 段階反応モデルをEMアルゴリズムで推定しようとして頓挫しています（2025年1月30日現在）。M-stepの最適化のときに、目的関数だけじゃなくて勾配関数（スコア関数）があった方が良いということで、項目母数で偏微分するステップを[ノートにしました](notes/GRM_scorefunc.pdf)。
+- Shojima,K.(2022) [Test Data Engineering](https://amzn.to/42eNArd)の7章、バイクラスタリングにおけるIRM（無限関係モデル）の式導出についての[ノート](notes/IRM_memo.pdf)。
+- Kruskalの非計量多次元尺度構成法の勾配導出に関する[ノート](notes/kruskal_gradient.pdf)
+- 偏相関係数の計算を3x3で確認した[ノート](notes/partial.pdf)
+
+## 過去の研究ノート
+
+- [エルミート行列の固有値分解アルゴリズム](notes/QR.pdf)
+- [正方行列の固有値分解 -- コスブラック P.167 式9.2の補遺](notes/Reigen.pdf)
+- [順序尺度の相関係数（ポリコリック相関係数）について](notes/polychoricNote25.pdf) --- exametrikaパッケージに実装
+- [確率分布についてのノート](notes/prob.pdf)
+- [テキストデータを扱う多変量解析について](notes/textMV.pdf)
+- [なぜ不偏分散はN-1で割るのかについて](notes/whyN_1.pdf)
+- [双対尺度法についてのノート](notes/DS2019.pdf)
+
+## 記事
+
+- [KOC2020をCORRESP](items/2020-09-27-koc2020-corresp.html)
+- [明日のM-1で優勝するのは誰か](items/2018-12-01-2018m1gp.html)
+- [M-1グランプリ 上沼恵美子さんの採点は本当に偏っていたのかを検証する](items/2018M1judges.html)
+
+## BibLaTeXスタイルファイル
+
+- [心理学用bibtexスタイルファイル](https://github.com/kosugitti/jecon-jpa)（メンテナンス停止）
+- 現在は [BibLaTeX版](https://github.com/sbtseiji/biblatex-jpa) を使用
