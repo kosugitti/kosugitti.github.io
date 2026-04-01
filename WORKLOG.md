@@ -1,5 +1,9 @@
 # WORKLOG
 
+## 2026-04-01（続き）
+- タイトルを「Kosugitti Portal」に変更
+- CLAUDE.md にユーザ操作サポート手順を追記
+
 ## 2026-04-01
 - kosugitti.github.io リポジトリ新規作成（kosugitti10 の後継）
 - Quarto Website として構築（テーマ: cosmo, lang: ja, docs/デプロイ）
