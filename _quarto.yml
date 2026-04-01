@@ -5,7 +5,7 @@ project:
     - "*.qmd"
 
 website:
-  title: "Kosugitti Labo"
+  title: "Kosugitti Portal"
   site-url: "https://kosugitti.github.io/"
   navbar:
     left:
