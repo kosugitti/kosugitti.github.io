@@ -19,6 +19,12 @@ website:
         text: 正誤表
       - href: yuep.qmd
         text: YUEP
+      - text: スライド
+        menu:
+          - text: GitHub Slides
+            href: "https://kosugitti.github.io/slides/"
+          - text: SpeakerDeck
+            href: "https://speakerdeck.com/kosugitti"
       - text: 関連サイト
         menu:
           - text: 統計教材
