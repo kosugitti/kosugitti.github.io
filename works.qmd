@@ -51,10 +51,11 @@ title: "業績一覧"
 - Trafimow David, Amrhein Valentin, Areshenkoff Corson N., Barrera-Causil Carlos J., Beh Eric J., Bilgiç Yusuf K., Bono Roser, Bradley Michael T., Briggs William M., Cepeda-Freyre Héctor A., Chaigneau Sergio E., Ciocca Daniel R., Correa Juan C., Cousineau Denis, de Boer Michiel R., Dhar Subhra S., Dolgov Igor, Gómez-Benito Juana, Grendar Marian, Grice James W., Guerrero-Gimenez Martin E., Gutiérrez Andrés, Huedo-Medina Tania B., Jaffe Klaus, Janyan Armina, Karimnezhad Ali, Korner-Nievergelt Fränzi, Kosugi Koji, Lachmair Martin, Ledesma Rubén D., Limongi Roberto, Liuzza Marco T., Lombardo Rosaria, Marks Michael J., Meinlschmidt Gunther, Nalborczyk Ladislas, Nguyen Hung T., Ospina Raydonal, Perezgonzalez Jose D., Pfister Roland, Rahona Juan J., Rodríguez-Medina David A., Romão Xavier, Ruiz-Fernández Susana, Suarez Isabel, Tegethoff Marion, Tejo Mauricio, van de Schoot Rens, Vankov Ivan I., Velasco-Forero Santiago, Wang Tonghui, Yamada Yuki, Zoppino Felipe C. M., Marmolejo-Ramos Fernando (2018) Manipulating the Alpha Level Cannot Cure Significance Testing,*Frontiers in Psychology*,**9**,699.
 - Yonemitsu, F., Sasaki, K., Gobara, A., Kosugi, K., & Yamada, Y. (2018). ‘‘Close, and ye shall find’’: eye closure during thinking enhances creativity. *Palgrave Communications*, 4(1), 80.
 - 林幸史・小杉考司(2018) 過去の旅行経験から見た観光地イメージ,社会心理学研究,**34**(1),38-46.
-- 小杉考司(2019).学習管理システムのアクセス記録から学業成績を予測する,専修人間科学論集心理学編,**9**(1),1--7.
+- 小杉考司(2019).学習管理システムのアクセス記録から学業成績を予測する,専修人間科学論集心理学篇,**9**(1),1--7.
 - 山南 春奈・長島 愛・中村 潤・田中 奈津子・小杉考司(2021)男性版顔立ちマップの開発と眉による印象演出の効果,日本顔学会誌,**21**(2),71--83.
-- 小杉考司(2023)心理尺度の開発と利用における問題の所在,専修人間科学論集心理学編,**13**(1),39--49.
-- 小林美月・野村圭史・小杉考司(2025)潜在意味スケーリングを用いて付与した感情極性値による不満度の予測,専修人間科学論集心理学編,**15**(1),25--35.
+- 小杉考司(2023)心理尺度の開発と利用における問題の所在,専修人間科学論集心理学篇,**13**(1),39--49.
+- 小林美月・野村圭史・小杉考司(2025)潜在意味スケーリングを用いて付与した感情極性値による不満度の予測,専修人間科学論集心理学篇,**15**(1),25--35.
+- 小杉考司(2026)Biclusteringにおけるサンプルサイズの検討,専修人間科学論集心理学篇,**16**(1),27--39.
 
 ## 学術論文（査読なし）
 
@@ -245,7 +246,7 @@ title: "業績一覧"
 - 小杉考司(2012.4-2016.3).空間統計学を用いた態度構造と態度変容の三次元モデルの構築,研究課題番号24730510,科学研究費補助金(若手研究(B)).
 - 小杉考司(2016.4-2019.3).ベイズの定理から再構築する態度理論と集団形成過程,研究課題番号	16K13459，科学研究費補助金(挑戦的萌芽).
 - 小杉考司(2019.4-2022.3).ベイズ推論と情報圧縮から広がる認知モデルの展開,研究課題番号 19K03211,科学研究費補助金(基盤(C)).
-- 小杉考司(2024.4-2028.3).個人差を核とした心理尺度の理論と分析ツールの展開,研究課題番号 24K06481,科学研究費補助金(基盤(C)).
+- 小杉考司(2024.4-2028.3).個人差を核とした心理尺度の理論と分析ツールの展開,研究課題番号 24K06481,科学研究費補助金(基盤(C)). 研究課題
 
 ### 研究分担者として
 
