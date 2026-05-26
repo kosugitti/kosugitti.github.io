@@ -137,7 +137,7 @@
     "href": "notes.html#biblatexスタイルファイル",
     "title": "ノート",
     "section": "BibLaTeXスタイルファイル",
-    "text": "BibLaTeXスタイルファイル\n\n心理学用bibtexスタイルファイル（メンテナンス停止）\n現在は BibLaTeX版 を使用"
+    "text": "BibLaTeXスタイルファイル\n\n心理学用bibtexスタイルファイル（メンテナンス停止）\n現在は自分でアップデートした biblatex-jpa2 を使用"
   },
   {
     "objectID": "works.html",
@@ -201,5 +201,12 @@
     "title": "業績一覧",
     "section": "寄稿",
     "text": "寄稿\n\n小杉考司(2022)構造方程式モデリングの基礎,精神科,41(6),785–790."
+  },
+  {
+    "objectID": "lottery.html",
+    "href": "lottery.html",
+    "title": "ランダム抽選器",
+    "section": "",
+    "text": "読書会など，参加者の中から一人をランダムに選ぶための簡易ツールです。 すべてブラウザ内で動作し，名前データはどこにも送信されません。\n\n\n\n  1. 参加者の名前を入力\n  1行に1人ずつ。コピペ可。空行や前後の空白は無視されます。\n  \n\n  \n    この名簿で確定\n    編集に戻る\n    全リセット\n  \n\n  2. 名簿\n  （未確定）\n\n  \n    \n      \n      一度当たった人は次回から除外する\n    \n  \n\n  3. 抽選\n  ―\n\n  \n    抽選！\n    当選履歴だけリセット"
   }
 ]

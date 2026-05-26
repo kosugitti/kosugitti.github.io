@@ -43,4 +43,4 @@ title: "ノート"
 ## BibLaTeXスタイルファイル
 
 - [心理学用bibtexスタイルファイル](https://github.com/kosugitti/jecon-jpa)（メンテナンス停止）
-- 現在は [BibLaTeX版](https://github.com/sbtseiji/biblatex-jpa) を使用
+- 現在は自分でアップデートした [biblatex-jpa2](https://github.com/kosugitti/biblatex-jpa2) を使用
