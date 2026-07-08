@@ -17,6 +17,13 @@ title: "ノート"
 
 - [心理学統計実習](https://kosugitti.github.io/PsyStatsPracticals/) --- Webテキスト
 
+## 教材用デモアプリ
+
+ブラウザ上で動かして推定・検定の考え方を体感するデモアプリです。コードは [GitHub](https://github.com/kosugitti/stat-demo-apps) で公開しています。
+
+- [教材用デモアプリ集（一覧）](https://kosugitti.github.io/stat-demo-apps/)
+- [母平均の区間推定](https://sv1.psy.senshu-u.ac.jp/kosugi-demo/mean-ci/) --- 母集団から標本をとって母平均を区間推定する様子を可視化
+
 ## 研究ノート
 
 - 段階反応モデルをEMアルゴリズムで推定しようとして頓挫しています（2025年1月30日現在）。M-stepの最適化のときに、目的関数だけじゃなくて勾配関数（スコア関数）があった方が良いということで、項目母数で偏微分するステップを[ノートにしました](notes/GRM_scorefunc.pdf)。
