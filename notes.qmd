@@ -6,6 +6,7 @@ title: "ノート"
 
 - [exametrika](https://kosugitti.github.io/exametrika/) --- テストデータ分析パッケージ（CRAN公開）
 - [ggExametrika](https://kosugitti.github.io/ggExametrika/) --- exametrika可視化パッケージ（CRAN公開）
+- [tikzomr](https://kosugitti.github.io/tikz-omr/) --- TikZでマークシートを生成し，スキャン画像から読み取るパッケージ（[GitHub](https://github.com/kosugitti/tikz-omr)）
 
 ## JASP関係
 
@@ -46,7 +47,10 @@ title: "ノート"
 - [明日のM-1で優勝するのは誰か](items/2018-12-01-2018m1gp.html)
 - [M-1グランプリ 上沼恵美子さんの採点は本当に偏っていたのかを検証する](items/2018M1judges.html)
 
-## BibLaTeXスタイルファイル
+## 文献引用スタイル
 
-- [心理学用bibtexスタイルファイル](https://github.com/kosugitti/jecon-jpa)（メンテナンス停止）
-- 現在は自分でアップデートした [biblatex-jpa2](https://github.com/kosugitti/biblatex-jpa2) を使用
+日本心理学会(JPA)の執筆・投稿の手引きに準拠した文献引用スタイルです。用途に応じて使い分けます。
+
+- [biblatex-jpa2](https://github.com/kosugitti/biblatex-jpa2) --- LaTeX/BibLaTeX向けのスタイル
+- [jpa-csl-zotero](https://github.com/kosugitti/jpa-csl-zotero) --- Zotero などCSL対応ソフト向けのスタイル
+- [心理学用bibtexスタイルファイル](https://github.com/kosugitti/jecon-jpa) --- 旧BibTeX版（メンテナンス停止）

@@ -88,14 +88,14 @@
     "href": "notes.html",
     "title": "ノート",
     "section": "",
-    "text": "exametrika — テストデータ分析パッケージ（CRAN公開）\nggExametrika — exametrika可視化パッケージ（CRAN公開）"
+    "text": "exametrika — テストデータ分析パッケージ（CRAN公開）\nggExametrika — exametrika可視化パッケージ（CRAN公開）\ntikzomr — TikZでマークシートを生成し，スキャン画像から読み取るパッケージ（GitHub）"
   },
   {
     "objectID": "notes.html#rパッケージ",
     "href": "notes.html#rパッケージ",
     "title": "ノート",
     "section": "",
-    "text": "exametrika — テストデータ分析パッケージ（CRAN公開）\nggExametrika — exametrika可視化パッケージ（CRAN公開）"
+    "text": "exametrika — テストデータ分析パッケージ（CRAN公開）\nggExametrika — exametrika可視化パッケージ（CRAN公開）\ntikzomr — TikZでマークシートを生成し，スキャン画像から読み取るパッケージ（GitHub）"
   },
   {
     "objectID": "notes.html#jasp関係",
@@ -222,5 +222,12 @@
     "title": "ノート",
     "section": "教材用デモアプリ",
     "text": "教材用デモアプリ\nブラウザ上で動かして推定・検定の考え方を体感するデモアプリです。コードは GitHub で公開しています。\n\n教材用デモアプリ集（一覧）"
+  },
+  {
+    "objectID": "notes.html#文献引用スタイル",
+    "href": "notes.html#文献引用スタイル",
+    "title": "ノート",
+    "section": "文献引用スタイル",
+    "text": "文献引用スタイル\n日本心理学会(JPA)の執筆・投稿の手引きに準拠した文献引用スタイルです。用途に応じて使い分けます。\n\nbiblatex-jpa2 — LaTeX/BibLaTeX向けのスタイル\njpa-csl-zotero — Zotero などCSL対応ソフト向けのスタイル\n心理学用bibtexスタイルファイル — 旧BibTeX版（メンテナンス停止）"
   }
 ]
