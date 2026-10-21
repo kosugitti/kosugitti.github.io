@@ -3,8 +3,11 @@ project:
   output-dir: docs
   render:
     - "*.qmd"
+    - "notes/anova_datamaker.qmd"
   resources:
     - "p/*.html"
+    - "notes/ANOVA_dataMaker.R"
+    - "notes/anova_datamaker_fig1.png"
 
 website:
   title: "Kosugitti Portal"

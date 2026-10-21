@@ -7,6 +7,13 @@
     "text": "第36回（2026年6月13日（土）13:00開始，於 広島大学きてみんさいラボ）の課題図書は，檜垣立哉『ベルクソンの哲学 生成する実在の肯定』（講談社学術文庫）です。\n\n\n\n第36回 YUEP 読書会 フライヤー"
   },
   {
+    "objectID": "yuep.html#次回開催のお知らせ",
+    "href": "yuep.html#次回開催のお知らせ",
+    "title": "YUEP",
+    "section": "",
+    "text": "第36回（2026年6月13日（土）13:00開始，於 広島大学きてみんさいラボ）の課題図書は，檜垣立哉『ベルクソンの哲学 生成する実在の肯定』（講談社学術文庫）です。\n\n\n\n第36回 YUEP 読書会 フライヤー"
+  },
+  {
     "objectID": "yuep.html#山口大学教育心理読書会",
     "href": "yuep.html#山口大学教育心理読書会",
     "title": "YUEP",
@@ -49,6 +56,76 @@
     "text": "訂正一覧\n\n研究論文を読み解くための多変量解析入門 基礎篇\n\nP.150 — 誤）14.2°、14.7° → 正）14.7°、17.8°\n\n\n\n言葉と数式で理解する多変量解析入門\n\nP.61 図4.8の変数名が本文の説明とずれ\nP.110 偏微分の式の分母 f(x,y)/dx → f(x,y)/dy\nP.56 lm関数 → glm関数\nP.143 学校AとBのラベルが逆\nP.162 Z段の符号が逆\nP.207 マララノビス → マハラノビス\nP.28, P.29, P.41, P.53, P.61, P.69, P.93, P.97, P.117, P.138, P.178, P.179, P.221 — 初版の修正点あり（詳細は旧サイト参照）\n\n\n\nたのしいベイズモデリング 第7章\n\nP.68, P.70, P.73, P.75 — MとFのラベル逆、添字の誤り\n\n\n\n社会調査士のための多変量解析法\n\nP.87, P.104, P.109, P.125 — 数式・図の修正あり\n\n\n\nM-plusとRによる構造方程式モデリング入門\n専用サポートサイトにて対応。"
   },
   {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "ノート",
+    "section": "",
+    "text": "exametrika — テストデータ分析パッケージ（CRAN公開）\nggExametrika — exametrika可視化パッケージ（CRAN公開）\ntikzomr — TikZでマークシートを生成し，スキャン画像から読み取るパッケージ（GitHub）"
+  },
+  {
+    "objectID": "notes.html#rパッケージ",
+    "href": "notes.html#rパッケージ",
+    "title": "ノート",
+    "section": "",
+    "text": "exametrika — テストデータ分析パッケージ（CRAN公開）\nggExametrika — exametrika可視化パッケージ（CRAN公開）\ntikzomr — TikZでマークシートを生成し，スキャン画像から読み取るパッケージ（GitHub）"
+  },
+  {
+    "objectID": "notes.html#jasp関係",
+    "href": "notes.html#jasp関係",
+    "title": "ノート",
+    "section": "JASP関係",
+    "text": "JASP関係\n\nJASPで統計を学ぼう！"
+  },
+  {
+    "objectID": "notes.html#授業テキスト",
+    "href": "notes.html#授業テキスト",
+    "title": "ノート",
+    "section": "授業テキスト",
+    "text": "授業テキスト\n詳しくは 心理統計教育教材 を参照。\n\n心理学統計実習 — Webテキスト"
+  },
+  {
+    "objectID": "notes.html#教材用デモアプリ",
+    "href": "notes.html#教材用デモアプリ",
+    "title": "ノート",
+    "section": "教材用デモアプリ",
+    "text": "教材用デモアプリ\nブラウザ上で動かして推定・検定の考え方を体感するデモアプリです。コードは GitHub で公開しています。\n\n教材用デモアプリ集（一覧）"
+  },
+  {
+    "objectID": "notes.html#教材用スクリプト",
+    "href": "notes.html#教材用スクリプト",
+    "title": "ノート",
+    "section": "教材用スクリプト",
+    "text": "教材用スクリプト\n\n分散分析の仮想データをつくる関数 ANOVA_dataMaker.R — 計画の型と効果の有無を指定すると，そのとおりの結果になる分散分析の例題データを作るRの関数（3要因まで・混合計画にも対応）"
+  },
+  {
+    "objectID": "notes.html#研究ノート",
+    "href": "notes.html#研究ノート",
+    "title": "ノート",
+    "section": "研究ノート",
+    "text": "研究ノート\n\n段階反応モデルをEMアルゴリズムで推定しようとして頓挫しています（2025年1月30日現在）。M-stepの最適化のときに、目的関数だけじゃなくて勾配関数（スコア関数）があった方が良いということで、項目母数で偏微分するステップをノートにしました。\nShojima,K.(2022) Test Data Engineeringの7章、バイクラスタリングにおけるIRM（無限関係モデル）の式導出についてのノート。\nKruskalの非計量多次元尺度構成法の勾配導出に関するノート\n偏相関係数の計算を3x3で確認したノート"
+  },
+  {
+    "objectID": "notes.html#過去の研究ノート",
+    "href": "notes.html#過去の研究ノート",
+    "title": "ノート",
+    "section": "過去の研究ノート",
+    "text": "過去の研究ノート\n\nエルミート行列の固有値分解アルゴリズム\n正方行列の固有値分解 – コスブラック P.167 式9.2の補遺\n順序尺度の相関係数（ポリコリック相関係数）について — exametrikaパッケージに実装\n確率分布についてのノート\nテキストデータを扱う多変量解析について\nなぜ不偏分散はN-1で割るのかについて\n双対尺度法についてのノート"
+  },
+  {
+    "objectID": "notes.html#記事",
+    "href": "notes.html#記事",
+    "title": "ノート",
+    "section": "記事",
+    "text": "記事\n\nKOC2020をCORRESP\n明日のM-1で優勝するのは誰か\nM-1グランプリ 上沼恵美子さんの採点は本当に偏っていたのかを検証する"
+  },
+  {
+    "objectID": "notes.html#文献引用スタイル",
+    "href": "notes.html#文献引用スタイル",
+    "title": "ノート",
+    "section": "文献引用スタイル",
+    "text": "文献引用スタイル\n日本心理学会(JPA)の執筆・投稿の手引きに準拠した文献引用スタイルです。用途に応じて使い分けます。\n\nbiblatex-jpa2 — LaTeX/BibLaTeX向けのスタイル\njpa-csl-zotero — Zotero などCSL対応ソフト向けのスタイル\n心理学用bibtexスタイルファイル — 旧BibTeX版（メンテナンス停止）"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "小杉考司研究室",
@@ -84,60 +161,53 @@
     "text": "連絡先\n〒214-8580 神奈川県川崎市多摩区東三田2-1-1 専修大学人間科学部心理学科 小杉考司\nメール: kosugi at psy.senshu-u.ac.jp"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "ノート",
+    "objectID": "notes/anova_datamaker.html",
+    "href": "notes/anova_datamaker.html",
+    "title": "分散分析の仮想データをつくる関数 ANOVA_dataMaker.R",
     "section": "",
-    "text": "exametrika — テストデータ分析パッケージ（CRAN公開）\nggExametrika — exametrika可視化パッケージ（CRAN公開）\ntikzomr — TikZでマークシートを生成し，スキャン画像から読み取るパッケージ（GitHub）"
+    "text": "分散分析の授業をしていると，「Aの主効果はあるけれど，Bの主効果と交互作用はない」といった，結果の形が決まった例題のデータが欲しくなります。乱数でそれらしいデータを作っても，たまたま有意にならなかったり，入れたつもりのない効果が有意になったりして，思いどおりの例題になかなか仕上がりません。\nそこで，計画の型と効果の有無を指定すると，そのとおりの結果になる仮想データを作る関数をまとめました。もとは授業の例題を作るために書き散らしていたスクリプトで，それを関数の形に整え直したものです。\n\n計画の型は ANOVA君(anovakun)の書き方(\"As\"，\"sAB\"，\"AsB\" など)で指定します。3要因まで，群間・群内・混合計画のいずれにも対応しています。\n各効果を TRUE/FALSE で指定し，効果の大きさも決められます。\nmatch = TRUE とすると，指定した効果だけが有意になり，それ以外は有意にならないデータになるまで乱数の種を探します。"
   },
   {
-    "objectID": "notes.html#rパッケージ",
-    "href": "notes.html#rパッケージ",
-    "title": "ノート",
+    "objectID": "notes/anova_datamaker.html#なにをするものか",
+    "href": "notes/anova_datamaker.html#なにをするものか",
+    "title": "分散分析の仮想データをつくる関数 ANOVA_dataMaker.R",
     "section": "",
-    "text": "exametrika — テストデータ分析パッケージ（CRAN公開）\nggExametrika — exametrika可視化パッケージ（CRAN公開）\ntikzomr — TikZでマークシートを生成し，スキャン画像から読み取るパッケージ（GitHub）"
+    "text": "分散分析の授業をしていると，「Aの主効果はあるけれど，Bの主効果と交互作用はない」といった，結果の形が決まった例題のデータが欲しくなります。乱数でそれらしいデータを作っても，たまたま有意にならなかったり，入れたつもりのない効果が有意になったりして，思いどおりの例題になかなか仕上がりません。\nそこで，計画の型と効果の有無を指定すると，そのとおりの結果になる仮想データを作る関数をまとめました。もとは授業の例題を作るために書き散らしていたスクリプトで，それを関数の形に整え直したものです。\n\n計画の型は ANOVA君(anovakun)の書き方(\"As\"，\"sAB\"，\"AsB\" など)で指定します。3要因まで，群間・群内・混合計画のいずれにも対応しています。\n各効果を TRUE/FALSE で指定し，効果の大きさも決められます。\nmatch = TRUE とすると，指定した効果だけが有意になり，それ以外は有意にならないデータになるまで乱数の種を探します。"
   },
   {
-    "objectID": "notes.html#jasp関係",
-    "href": "notes.html#jasp関係",
-    "title": "ノート",
-    "section": "JASP関係",
-    "text": "JASP関係\n\nJASPで統計を学ぼう！"
+    "objectID": "notes/anova_datamaker.html#入手と読み込み",
+    "href": "notes/anova_datamaker.html#入手と読み込み",
+    "title": "分散分析の仮想データをつくる関数 ANOVA_dataMaker.R",
+    "section": "入手と読み込み",
+    "text": "入手と読み込み\nファイルは ANOVA_dataMaker.R からダウンロードできます。インターネットにつながっていれば，次のように直接読み込むこともできます。\nsource(\"https://kosugitti.github.io/notes/ANOVA_dataMaker.R\")\n内部で pacman，dplyr，tidyr を使います。pacman が入っていなければ，先に install.packages(\"pacman\") としておいてください。"
   },
   {
-    "objectID": "notes.html#授業テキスト",
-    "href": "notes.html#授業テキスト",
-    "title": "ノート",
-    "section": "授業テキスト",
-    "text": "授業テキスト\n詳しくは 心理統計教育教材 を参照。\n\n心理学統計実習 — Webテキスト"
+    "objectID": "notes/anova_datamaker.html#使い方",
+    "href": "notes/anova_datamaker.html#使い方",
+    "title": "分散分析の仮想データをつくる関数 ANOVA_dataMaker.R",
+    "section": "使い方",
+    "text": "使い方\n\nデータをつくる\nたとえば，Aが群間要因(2水準)，Bが群内要因(3水準)の混合計画で，各群10人，Aの主効果と交互作用があり，Bの主効果はないデータを作るには，次のようにします。\ndat &lt;- make_anova_data(\"AsB\", n = 10, levels = c(2, 3),\n                       A = TRUE, B = FALSE, AB = TRUE,\n                       match = TRUE, seed = 1)\nhead(dat)\n  id  A  B value\n1  1 a1 b1    52\n2  1 a1 b2    47\n3  1 a1 b3    38\n4  2 a1 b1    37\n5  2 a1 b2    52\n6  2 a1 b3    43\n1行に1つの測定値が入った縦長の形で返ってきます。このまま ggplot2 で図にしたり，aov や afex で分析したりできます。指定していない効果(ここでは B)は FALSE が既定なので，書かなくてもかまいません。\n使った乱数の種は，データに属性として記録されています。授業資料にこの種を書いておけば，同じデータを作り直せます。\nattr(dat, \"seed\")\n[1] 1\n\n\n効果を確かめる\nanova_check() は，aov で分散分析をして各効果の \\(p\\) 値を返します。\nanova_check(dat)\n           A            B           AB\n0.0090862252 0.4877032876 0.0003262894\nAの主効果と交互作用だけが有意で，Bの主効果は有意でない，という指定どおりのデータになっています。図にすると，交互作用の形がよくわかります。\n\n\n\nAの水準ごとにBの平均値を結んだ図(エラーバーは標準誤差)\n\n\n\n\nANOVA君に渡す\nformat = \"wide\" とするか，縦長のデータを to_wide() に通すと，1行に1人の横長の形になります。これはANOVA君にそのまま渡せる形です。\nwide &lt;- to_wide(dat)\nhead(wide, 3)\n  id  A b1 b2 b3\n1  1 a1 52 47 38\n2  2 a1 37 52 43\n3  3 a1 43 30 33\nanovakun(wide[, -1], \"AsB\", 2, 3)\n1列目の id を除いて渡すところに注意してください。群内要因が2つ以上あるときは，列名が a1_b1，a1_b2，… のようになり，最後の要因がいちばん速く変わる順に並びます。これもANOVA君が想定している並びです。\n\n\nafex で分析する\n縦長のデータは，afex の aov_ez() にもそのまま渡せます。\nlibrary(afex)\nfit &lt;- aov_ez(id = \"id\", dv = \"value\", data = dat,\n              between = \"A\", within = \"B\")\nfit\nAnova Table (Type 3 tests)\n\nResponse: value\n  Effect          df    MSE         F  ges p.value\n1      A       1, 18 155.15   8.54 ** .231    .009\n2      B 1.91, 34.40  46.93      0.73 .015    .482\n3    A:B 1.91, 34.40  46.93 10.12 *** .171   &lt;.001\n\n\n3要因の場合\n3要因でも書き方は同じです。効果の大きさは TRUE の代わりに数値で指定することもできます。次の例は，Cの主効果と，大きさ1.5の三次の交互作用だけがある3要因群間計画のデータです。\nd3 &lt;- make_anova_data(\"ABCs\", n = 8, C = TRUE, ABC = 1.5,\n                      match = TRUE, seed = 1)\nround(anova_check(d3), 3)\n    A     B     C    AB    AC    BC   ABC\n0.696 0.444 0.000 0.716 0.777 0.638 0.000"
   },
   {
-    "objectID": "notes.html#研究ノート",
-    "href": "notes.html#研究ノート",
-    "title": "ノート",
-    "section": "研究ノート",
-    "text": "研究ノート\n\n段階反応モデルをEMアルゴリズムで推定しようとして頓挫しています（2025年1月30日現在）。M-stepの最適化のときに、目的関数だけじゃなくて勾配関数（スコア関数）があった方が良いということで、項目母数で偏微分するステップをノートにしました。\nShojima,K.(2022) Test Data Engineeringの7章、バイクラスタリングにおけるIRM（無限関係モデル）の式導出についてのノート。\nKruskalの非計量多次元尺度構成法の勾配導出に関するノート\n偏相関係数の計算を3x3で確認したノート"
+    "objectID": "notes/anova_datamaker.html#引数",
+    "href": "notes/anova_datamaker.html#引数",
+    "title": "分散分析の仮想データをつくる関数 ANOVA_dataMaker.R",
+    "section": "引数",
+    "text": "引数\nmake_anova_data() の引数は次のとおりです(カッコ内は既定値)。\n\n\n\n\n\n\n\n引数\n意味\n\n\n\n\ndesign\nANOVA君の型指定。s の左が群間要因，右が群内要因。要因は A〜C の3つまで。例: \"As\"，\"sA\"，\"ABs\"，\"AsB\"，\"sAB\"，\"ABCs\"，\"ABsC\"，\"AsBC\"，\"sABC\"\n\n\nn\n群間の各セルの参加者数。群間要因がない計画では全体の参加者数 (10)\n\n\nlevels\n各要因の水準数を A, B, C の順に並べたベクトル (すべて2水準)\n\n\nA, B, C\n主効果の有無。TRUE なら es の大きさの効果を入れる。数値を書けばその大きさになる (FALSE)\n\n\nAB, AC, BC, ABC\n交互作用の有無。書き方は主効果と同じ (FALSE)\n\n\nes\nTRUE と書いた効果の大きさ。標準偏差 sigma を単位とする (0.8)\n\n\nmu\n全体平均 (50)\n\n\nsigma\n各測定値の標準偏差 (10)\n\n\nrho\n群内要因の測定値どうしの相関。大きいほど個人差が大きい (0.5)\n\n\ndigits\n測定値を丸める小数点以下の桁数。0 なら整数 (0)\n\n\nformat\n\"long\" は1行1測定値，\"wide\" は1行1人でANOVA君向き (\"long\")\n\n\nmatch\nTRUE なら，指定した効果だけが有意になるまで乱数の種を変える (FALSE)\n\n\nalpha\nmatch = TRUE のときの有意水準 (0.05)\n\n\nmax_try\nmatch = TRUE のときに種を試す回数の上限 (1000)\n\n\nseed\n乱数の種。match = TRUE のときは探し始める種 (NULL)"
   },
   {
-    "objectID": "notes.html#過去の研究ノート",
-    "href": "notes.html#過去の研究ノート",
-    "title": "ノート",
-    "section": "過去の研究ノート",
-    "text": "過去の研究ノート\n\nエルミート行列の固有値分解アルゴリズム\n正方行列の固有値分解 – コスブラック P.167 式9.2の補遺\n順序尺度の相関係数（ポリコリック相関係数）について — exametrikaパッケージに実装\n確率分布についてのノート\nテキストデータを扱う多変量解析について\nなぜ不偏分散はN-1で割るのかについて\n双対尺度法についてのノート"
+    "objectID": "notes/anova_datamaker.html#効果の入れ方",
+    "href": "notes/anova_datamaker.html#効果の入れ方",
+    "title": "分散分析の仮想データをつくる関数 ANOVA_dataMaker.R",
+    "section": "効果の入れ方",
+    "text": "効果の入れ方\nデータは「全体平均 + 効果 + 個人差 + 誤差」として作っています。\n\n主効果は，両端の水準の平均値の差が es × sigma になるように入れます。3水準以上のときは等間隔に並びます。\n交互作用は交差型で入れます。2×2 なら，一方の要因の単純効果が，もう一方の要因の水準によって +es × sigma と -es × sigma に分かれる形です。3水準以上の要因どうしでは「線形×線形」の形になるので，真ん中の水準には交互作用の効果が乗りません。\n群内要因があるときは，参加者ごとの個人差を加えています。同じ参加者の測定値どうしの相関は rho になり，どの水準の組でも同じです。"
   },
   {
-    "objectID": "notes.html#記事",
-    "href": "notes.html#記事",
-    "title": "ノート",
-    "section": "記事",
-    "text": "記事\n\nKOC2020をCORRESP\n明日のM-1で優勝するのは誰か\nM-1グランプリ 上沼恵美子さんの採点は本当に偏っていたのかを検証する"
-  },
-  {
-    "objectID": "notes.html#biblatexスタイルファイル",
-    "href": "notes.html#biblatexスタイルファイル",
-    "title": "ノート",
-    "section": "BibLaTeXスタイルファイル",
-    "text": "BibLaTeXスタイルファイル\n\n心理学用bibtexスタイルファイル（メンテナンス停止）\n現在は自分でアップデートした biblatex-jpa2 を使用"
+    "objectID": "notes/anova_datamaker.html#注意",
+    "href": "notes/anova_datamaker.html#注意",
+    "title": "分散分析の仮想データをつくる関数 ANOVA_dataMaker.R",
+    "section": "注意",
+    "text": "注意\n\n個人差は「どの水準の組でも相関が同じ」という形で作っているので，球面性の仮定はほぼ満たされます。球面性が破れたデータを作ることはできません。球面性の検定や補正を説明する例題には向きません。\nmatch = TRUE は，補正をかけない aov の \\(p\\) 値で判定しています。ANOVA君や afex で Greenhouse-Geisser の補正をかけると，境目付近の効果では判定が変わることがあります。\n効果を小さくしたり人数を少なくしたりすると，条件に合うデータが見つからないことがあります。そのときは n や es を大きくしてください。\n作られるのはあくまで仮想データです。実際の研究のデータとして使うことはできません。"
   },
   {
     "objectID": "works.html",
@@ -201,33 +271,5 @@
     "title": "業績一覧",
     "section": "寄稿",
     "text": "寄稿\n\n小杉考司(2022)構造方程式モデリングの基礎,精神科,41(6),785–790."
-  },
-  {
-    "objectID": "lottery.html",
-    "href": "lottery.html",
-    "title": "ランダム抽選器",
-    "section": "",
-    "text": "読書会など，参加者の中から一人をランダムに選ぶための簡易ツールです。 すべてブラウザ内で動作し，名前データはどこにも送信されません。\n\n\n\n  1. 参加者の名前を入力\n  1行に1人ずつ。コピペ可。空行や前後の空白は無視されます。\n  \n\n  \n    この名簿で確定\n    編集に戻る\n    全リセット\n  \n\n  2. 名簿\n  （未確定）\n\n  \n    \n      \n      一度当たった人は次回から除外する\n    \n  \n\n  3. 抽選\n  ―\n\n  \n    抽選！\n    当選履歴だけリセット"
-  },
-  {
-    "objectID": "yuep.html#次回開催のお知らせ",
-    "href": "yuep.html#次回開催のお知らせ",
-    "title": "YUEP",
-    "section": "",
-    "text": "第36回（2026年6月13日（土）13:00開始，於 広島大学きてみんさいラボ）の課題図書は，檜垣立哉『ベルクソンの哲学 生成する実在の肯定』（講談社学術文庫）です。\n\n\n\n第36回 YUEP 読書会 フライヤー"
-  },
-  {
-    "objectID": "notes.html#教材用デモアプリ",
-    "href": "notes.html#教材用デモアプリ",
-    "title": "ノート",
-    "section": "教材用デモアプリ",
-    "text": "教材用デモアプリ\nブラウザ上で動かして推定・検定の考え方を体感するデモアプリです。コードは GitHub で公開しています。\n\n教材用デモアプリ集（一覧）"
-  },
-  {
-    "objectID": "notes.html#文献引用スタイル",
-    "href": "notes.html#文献引用スタイル",
-    "title": "ノート",
-    "section": "文献引用スタイル",
-    "text": "文献引用スタイル\n日本心理学会(JPA)の執筆・投稿の手引きに準拠した文献引用スタイルです。用途に応じて使い分けます。\n\nbiblatex-jpa2 — LaTeX/BibLaTeX向けのスタイル\njpa-csl-zotero — Zotero などCSL対応ソフト向けのスタイル\n心理学用bibtexスタイルファイル — 旧BibTeX版（メンテナンス停止）"
   }
 ]
